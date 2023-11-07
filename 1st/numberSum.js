@@ -1,4 +1,5 @@
 //숫자의 합
+//백준
 let input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
 
 let num = Number(input[0]);
